@@ -70,7 +70,7 @@ const handleSubmit = (e) => {
             {loading && <button disabled>Publishing Blog...</button>}
           </form>
       </div>
-          <ToastContainer />
+      <ToastContainer />
     </>
   )
 }
